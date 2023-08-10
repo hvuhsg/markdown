@@ -372,7 +372,7 @@
 				</div>
 			</nav>
 			<div class="hidden px-4 py-2 font-bold sm:block">
-				{file?.name ? file.name : "Typo"}
+				{file?.name ? file.name : "YOYO Markdown"}
 			</div>
 		</header>
 	{/if}
