@@ -36,6 +36,7 @@
 		"vite": "^4.4.9"
 	},
 	"dependencies": {
+		"@sveltejs/adapter-cloudflare": "^2.3.2",
 		"@vercel/analytics": "^1.0.1",
 		"highlight.js": "^11.8.0",
 		"marked": "^7.0.1",
